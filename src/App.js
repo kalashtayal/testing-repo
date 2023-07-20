@@ -51,7 +51,7 @@ else{
            (hemisphere =="Southern Hemisphere" && month>=2 &&month<=9)
 ?(
                     <div>
-                <h1> Its   Winter in the {hemisphere}</h1>
+                <h1> Its Winter in the {hemisphere}</h1>
                 <img src="https://pbs.twimg.com/media/DpePTTuWsAAxmhT.jpg" 
                 alt="Winter"/>
               </div>
